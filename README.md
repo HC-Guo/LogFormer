@@ -6,7 +6,7 @@ Training data can be download from [LogHub](https://github.com/logpai/loghub)
 
 
 # Updates
-01/23. We release the base code version for LogFormer, which is strong baseline for log anomaly detection.
+01/23. We release the base code version for LogFormer, which is a strong baseline for log anomaly detection.
 
 
 
