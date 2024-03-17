@@ -8,6 +8,10 @@ Training data can be download from [LogHub](https://github.com/logpai/loghub)
 # Updates
 01/23. We release the base code version for LogFormer, which is a strong baseline for log anomaly detection.
 
+# Data processing
+1. Downloading data into log_data/
+2. parse_log.py
+3. preprocess_xxx.py
 
 
 # Citation
