@@ -21,11 +21,14 @@ Training data can be download from [LogHub](https://github.com/logpai/loghub)
 # Citation
 If you feel helpful, please cite our paper.
 
-```bibtex
-@article{guo2024logformer,
-  title={LogFormer: A Pre-train and Tuning Pipeline for Log Anomaly Detection},
-  author={Guo, Hongcheng and Yang, Jian and Liu, Jiaheng and Bai, Jiaqi and Wang, Boyang and Li, Zhoujun and Zheng, Tieqiao and Zhang, Bo and Tian, Qi and others},
-  journal={arXiv preprint arXiv:2401.04749},
+```
+@inproceedings{guo2024logformer,
+  title={Logformer: A pre-train and tuning pipeline for log anomaly detection},
+  author={Guo, Hongcheng and Yang, Jian and Liu, Jiaheng and Bai, Jiaqi and Wang, Boyang and Li, Zhoujun and Zheng, Tieqiao and Zhang, Bo and Peng, Junran and Tian, Qi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={1},
+  pages={135--143},
   year={2024}
 }
 ```
