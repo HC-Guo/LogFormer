@@ -13,6 +13,10 @@ Training data can be download from [LogHub](https://github.com/logpai/loghub)
 2. parse_log.py
 3. preprocess_xxx.py
 
+# Run
+1. First run train_transformer.py
+2. Then run tune_transformer.py
+
 
 # Citation
 If you feel helpful, please cite our paper.
